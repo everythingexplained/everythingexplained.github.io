@@ -4,13 +4,32 @@
  <title>Everything explained</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-11-03T11:30:11+05:30</updated>
+ <updated>2020-11-03T12:38:03+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>everything explained</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Sinai Peninsula</title>
+   <link href="http://localhost:4000/2020/11/03/sinai-peninsula/"/>
+   <updated>2020-11-03T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2020/11/03/sinai-peninsula</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/public/sinai_peninsula.png&quot; alt=&quot;Location of Sinai Peninsula is marked by the pin&quot; title=&quot;Sinai peninsula is marked by the pin&quot; /&gt;
+&lt;em&gt;Location of the Sinai Peninsula&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Sinai Peninsula is the bridge between Africa and Asia. It is a part of Egypt and the only part of the country located in Asia. In the north-eastern side of the peninsula lies Israel and the Gaza Strip(Part of palastine).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/suez_canal.png&quot; alt=&quot;&quot; title=&quot;Suez canal and Mount Sinai&quot; /&gt;
+&lt;em&gt;Suez canal and Mount Sinai&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The Suez canal, connecting the Meditteranean and the Red sea through the gulf of Suez, is to the West of Sinai. Mount Sinai, where Moses is said to have received the Ten Commandmends lies here.&lt;/p&gt;
+
+&lt;p&gt;In the past, Sinai Peninsula has been occupied multiple times by Israel. In 1982, Israel withdrew from the Sinai Peninsula as a result of the Egypt-Israel peace treaty.&lt;/p&gt;
+</content>
+ </entry>
  
 
 </feed>
