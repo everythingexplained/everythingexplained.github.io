@@ -1,0 +1,24 @@
+# Setup
+title:               Everything explained
+tagline:             'The world demystified'
+description:         'A blog attempting to explain everything'
+url:                 https://everythingexplained.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+tag_page:            'tag/'
+
+# About/contact
+author:
+  name:              everything explained
+  url:               everythingexplained.github.io
+  #email:
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - liquid_reading_time
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: G-FG8YL6SVEH
